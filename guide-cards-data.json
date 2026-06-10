@@ -1,0 +1,2005 @@
+[
+  {
+    "id": "treasures-seven-heads",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": true,
+    "focusOrder": 1,
+    "order": 1,
+    "titleZh": "七尊圆明园兽首同场",
+    "titleEn": "物质记忆主线",
+    "artistZh": "物质记忆主线",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "獸",
+    "tags": [
+      "兽首",
+      "回归",
+      "物质记忆"
+    ],
+    "summary": "这张卡是全展入口：把兽首看成工艺、流失史、回归叙事和公共记忆的交汇点。",
+    "viewTips": [
+      "先不要只拍照，先看七尊并置形成的“圆明园水力钟”想象。",
+      "注意金属表面的斑驳、毛发肌理和动物表情。",
+      "再读它们如何从“园林装置”变成近代流失文物与回归符号。"
+    ],
+    "keywords": [
+      "圆明园",
+      "十二生肖兽首",
+      "水力钟",
+      "海外流失文物"
+    ],
+    "compare": "",
+    "sourceLabel": "公开报道：七尊圆明园兽首铜像齐聚深圳，其中牛、虎、猴、猪为原件；展览以物质记忆为线索。",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-ox",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": true,
+    "focusOrder": 2,
+    "order": 2,
+    "titleZh": "牛首铜像",
+    "titleEn": "原件重点",
+    "artistZh": "原件重点",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "牛",
+    "tags": [
+      "原件",
+      "青铜",
+      "工艺"
+    ],
+    "summary": "牛首适合看金属铸造与动物形象之间的张力：写实、威严、但又有装饰性。",
+    "viewTips": [
+      "看眼睛、角、毛发转折处的处理。",
+      "注意金属颜色不是单一的“铜色”，而是时间留下的表面。",
+      "和虎首、猴首比较：不同动物的性格如何被塑造。"
+    ],
+    "keywords": [
+      "牛首",
+      "海晏堂",
+      "铸造痕迹"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-tiger",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": true,
+    "focusOrder": 3,
+    "order": 3,
+    "titleZh": "虎首铜像",
+    "titleEn": "原件重点",
+    "artistZh": "原件重点",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "虎",
+    "tags": [
+      "原件",
+      "力量",
+      "表情"
+    ],
+    "summary": "虎首最适合看“兽性”和宫廷工艺如何结合。",
+    "viewTips": [
+      "先看口鼻与眼神是否有压迫感。",
+      "再看虎纹/毛发是否更依赖刻画而不是颜色。",
+      "最后想：它为什么既像动物，也像权力符号。"
+    ],
+    "keywords": [
+      "虎首",
+      "动物形象",
+      "权力符号"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-monkey",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": true,
+    "focusOrder": 4,
+    "order": 4,
+    "titleZh": "猴首铜像",
+    "titleEn": "原件重点",
+    "artistZh": "原件重点",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "猴",
+    "tags": [
+      "原件",
+      "表情",
+      "细节"
+    ],
+    "summary": "猴首适合看表情细节：它不像重器那样庄严，但更有拟人感。",
+    "viewTips": [
+      "观察眼、嘴、脸部转折。",
+      "看细节是否带有戏剧性或趣味性。",
+      "和牛首比较：同样是铜像，性格完全不同。"
+    ],
+    "keywords": [
+      "猴首",
+      "拟人化",
+      "宫廷工艺"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-pig",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": true,
+    "focusOrder": 5,
+    "order": 5,
+    "titleZh": "猪首铜像",
+    "titleEn": "原件重点",
+    "artistZh": "原件重点",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "猪",
+    "tags": [
+      "原件",
+      "体量",
+      "回归"
+    ],
+    "summary": "猪首适合看“朴拙感”与历史叙事的结合。",
+    "viewTips": [
+      "先看头部体块是否更沉稳。",
+      "注意鼻部和耳部的体积处理。",
+      "读展签时留意其回归路径和收藏背景。"
+    ],
+    "keywords": [
+      "猪首",
+      "圆明园",
+      "回归文物"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-bronze",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": true,
+    "focusOrder": 6,
+    "order": 6,
+    "titleZh": "商周青铜礼器",
+    "titleEn": "吉金重器",
+    "artistZh": "吉金重器",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "鼎",
+    "tags": [
+      "青铜",
+      "礼制",
+      "纹饰"
+    ],
+    "summary": "别把青铜器只当古董，要把它看成礼制、权力和文明秩序的容器。",
+    "viewTips": [
+      "先看器型：是鼎、尊、卣、壶还是其他用途。",
+      "再看纹饰：兽面、凤鸟、几何纹如何制造威严。",
+      "最后看铭文或用途说明：它服务于祭祀、宴飨还是身份。"
+    ],
+    "keywords": [
+      "青铜器",
+      "礼器",
+      "纹饰",
+      "铭文"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-stone",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": true,
+    "focusOrder": 7,
+    "order": 7,
+    "titleZh": "北朝石刻造像",
+    "titleEn": "妙相重光",
+    "artistZh": "妙相重光",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "佛",
+    "tags": [
+      "石刻",
+      "佛像",
+      "青州微笑"
+    ],
+    "summary": "石刻部分不是配角；它能把“物质记忆”从金属推到宗教身体与石材肌理。",
+    "viewTips": [
+      "看脸部微笑和眼睑线条。",
+      "看衣褶是贴体、翻卷还是几何化。",
+      "看残损、彩绘、贴金痕迹如何让时间可见。"
+    ],
+    "keywords": [
+      "北朝",
+      "石刻造像",
+      "佛像",
+      "衣褶"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-return",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": true,
+    "focusOrder": 8,
+    "order": 8,
+    "titleZh": "从漂泊到归来",
+    "titleEn": "历史叙事",
+    "artistZh": "历史叙事",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "归",
+    "tags": [
+      "流失文物",
+      "回归",
+      "记忆"
+    ],
+    "summary": "这张卡提醒你：这个展的核心不是“稀有”，而是物怎样承载历史断裂与修复。",
+    "viewTips": [
+      "看展览叙事如何安排顺序。",
+      "注意“原件、复制、回流、回归”这些词。",
+      "离开展厅前再回头看兽首，会和刚进来时感受不同。"
+    ],
+    "keywords": [
+      "流失文物",
+      "物质记忆",
+      "公共记忆"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-mouse-rabbit-horse",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": false,
+    "focusOrder": null,
+    "order": 9,
+    "titleZh": "鼠、兔、马兽首",
+    "titleEn": "复刻/对照",
+    "artistZh": "复刻/对照",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "鼠",
+    "tags": [
+      "复刻",
+      "对照",
+      "完整性"
+    ],
+    "summary": "如果现场看到鼠、兔、马，要把它们当成“完整十二生肖系统”的补足线索，而不是和原件混在一起。",
+    "viewTips": [
+      "看清展签是原件、复制还是复刻。",
+      "对比不同兽首在质感和呈现方式上的差别。",
+      "思考“完整场景”与“真迹身份”哪个更影响观看。"
+    ],
+    "keywords": [
+      "鼠首",
+      "兔首",
+      "马首",
+      "复刻"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "treasures-objects-memory",
+    "kind": "guide",
+    "exhibition": "treasures",
+    "focus": false,
+    "focusOrder": null,
+    "order": 10,
+    "titleZh": "物质记忆",
+    "titleEn": "展览标题怎么读",
+    "artistZh": "展览标题怎么读",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "忆",
+    "tags": [
+      "策展线索",
+      "历史",
+      "材料"
+    ],
+    "summary": "“物质记忆”四个字意味着：文物不是沉默的物，而是把制度、工艺、信仰、流散史压缩在自身表面。",
+    "viewTips": [
+      "看材料：铜、石、金属表面各自怎样记录时间。",
+      "看叙事：展览如何把远古、北朝、清代、近现代连起来。"
+    ],
+    "keywords": [
+      "物质记忆",
+      "材料",
+      "历史叙事"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-three-lines",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": true,
+    "focusOrder": 1,
+    "order": 1,
+    "titleZh": "三条主线",
+    "titleEn": "守古 / 随时代 / 融西",
+    "artistZh": "守古 / 随时代 / 融西",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "三",
+    "tags": [
+      "策展结构",
+      "近现代",
+      "书画"
+    ],
+    "summary": "先用三条线把展览看清：守古承韵、墨随时代、融西拓界。",
+    "viewTips": [
+      "遇到每件作品，先判断它更靠近哪条线。",
+      "看它是延续古法、回应时代，还是吸收西方写实/构图。",
+      "不要逐个背名家，先把结构建立起来。"
+    ],
+    "keywords": [
+      "守古承韵",
+      "墨随时代",
+      "融西拓界"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-ren-bonian",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": true,
+    "focusOrder": 2,
+    "order": 2,
+    "titleZh": "任伯年",
+    "titleEn": "海派与人物",
+    "artistZh": "海派与人物",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "任",
+    "tags": [
+      "海派",
+      "人物",
+      "笔墨"
+    ],
+    "summary": "任伯年适合看近代人物画如何兼具通俗、叙事和笔墨速度。",
+    "viewTips": [
+      "看人物是否有戏剧动作。",
+      "看衣纹线条和面部刻画的节奏差别。",
+      "想它为什么比古典文人画更面向都市观众。"
+    ],
+    "keywords": [
+      "任伯年",
+      "海派",
+      "人物画"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-wu-changshuo",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": true,
+    "focusOrder": 3,
+    "order": 3,
+    "titleZh": "吴昌硕",
+    "titleEn": "金石气",
+    "artistZh": "金石气",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "吴",
+    "tags": [
+      "金石气",
+      "花卉",
+      "篆刻"
+    ],
+    "summary": "吴昌硕的重点是“金石气”：线条像刻出来的，花卉也有碑刻般的力量。",
+    "viewTips": [
+      "看线条是否粗重、涩、拙。",
+      "看题字、印章和画面是否形成整体。",
+      "别只看花，重点看书法性如何进入绘画。"
+    ],
+    "keywords": [
+      "吴昌硕",
+      "金石气",
+      "书画印"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-qi-baishi",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": true,
+    "focusOrder": 4,
+    "order": 4,
+    "titleZh": "齐白石",
+    "titleEn": "从民间到现代",
+    "artistZh": "从民间到现代",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "齐",
+    "tags": [
+      "花鸟",
+      "日常",
+      "现代性"
+    ],
+    "summary": "齐白石的厉害不只是虾虫草木，而是把日常物变成高度简练的现代图像。",
+    "viewTips": [
+      "看留白是不是让小物变得有分量。",
+      "看墨色浓淡和几笔形体如何成立。",
+      "看题字是否和图像互相咬合。"
+    ],
+    "keywords": [
+      "齐白石",
+      "花鸟",
+      "留白"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-zhang-daqian",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": true,
+    "focusOrder": 5,
+    "order": 5,
+    "titleZh": "张大千",
+    "titleEn": "传统与变化",
+    "artistZh": "传统与变化",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "张",
+    "tags": [
+      "山水",
+      "摹古",
+      "泼彩"
+    ],
+    "summary": "张大千适合看传统功力如何转向更自由的现代视觉。",
+    "viewTips": [
+      "先看是否有古典山水的结构。",
+      "再看墨色或色彩是否更奔放。",
+      "想“摹古”怎样变成创新资源。"
+    ],
+    "keywords": [
+      "张大千",
+      "山水",
+      "泼彩"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-xu-beihong",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": true,
+    "focusOrder": 6,
+    "order": 6,
+    "titleZh": "徐悲鸿",
+    "titleEn": "西方写实进入中国画",
+    "artistZh": "西方写实进入中国画",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "徐",
+    "tags": [
+      "写实",
+      "人体/动物",
+      "教育"
+    ],
+    "summary": "徐悲鸿是理解“融西拓界”的关键：西方写实、素描训练和中国画笔墨被放到一起。",
+    "viewTips": [
+      "看结构是否比传统中国画更重视体积。",
+      "看线和墨如何配合解剖/透视。",
+      "问：它还是中国画吗？为什么？"
+    ],
+    "keywords": [
+      "徐悲鸿",
+      "写实",
+      "融西"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-fu-baoshi",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": true,
+    "focusOrder": 7,
+    "order": 7,
+    "titleZh": "傅抱石",
+    "titleEn": "山水的现代精神",
+    "artistZh": "山水的现代精神",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "傅",
+    "tags": [
+      "山水",
+      "皴法",
+      "时代"
+    ],
+    "summary": "傅抱石适合看山水不是古人隐逸，而是现代情绪和历史经验。",
+    "viewTips": [
+      "看皴擦是否像风雨和速度。",
+      "看人物在山水中的尺度。",
+      "看画面气势如何超出传统小景。"
+    ],
+    "keywords": [
+      "傅抱石",
+      "山水",
+      "抱石皴"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-li-keran",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": true,
+    "focusOrder": 8,
+    "order": 8,
+    "titleZh": "李可染",
+    "titleEn": "黑、重、厚、亮",
+    "artistZh": "黑、重、厚、亮",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "李",
+    "tags": [
+      "山水",
+      "光感",
+      "积墨"
+    ],
+    "summary": "李可染常用沉厚墨色组织山水，让传统山水出现类似光影和体积的现代感。",
+    "viewTips": [
+      "看暗部是否厚而不死。",
+      "看亮处是否被墨色托出来。",
+      "看牛、树、山体等题材如何产生重量。"
+    ],
+    "keywords": [
+      "李可染",
+      "积墨",
+      "山水光感"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-ye-qianyu",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": false,
+    "focusOrder": null,
+    "order": 9,
+    "titleZh": "叶浅予",
+    "titleEn": "速写与舞蹈人物",
+    "artistZh": "速写与舞蹈人物",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "叶",
+    "tags": [
+      "人物",
+      "速写",
+      "现代生活"
+    ],
+    "summary": "叶浅予帮助你看到近现代中国画如何吸收速写、舞台和现代生活。",
+    "viewTips": [
+      "看线条是否快速有弹性。",
+      "看人物动态是否比细节更重要。"
+    ],
+    "keywords": [
+      "叶浅予",
+      "速写",
+      "舞蹈人物"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "silk-modern-identity",
+    "kind": "guide",
+    "exhibition": "silk",
+    "focus": false,
+    "focusOrder": null,
+    "order": 10,
+    "titleZh": "中国画的现代身份",
+    "titleEn": "看完整展后再想",
+    "artistZh": "看完整展后再想",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "问",
+    "tags": [
+      "现代化",
+      "西学",
+      "文脉"
+    ],
+    "summary": "这张卡是总结题：20世纪中国画如何在传统、西学、民族身份之间重新定位。",
+    "viewTips": [
+      "看完后问：哪些作品最传统？哪些最西化？哪些最难归类？",
+      "这比单独记住名家更重要。"
+    ],
+    "keywords": [
+      "中国画现代化",
+      "文脉",
+      "西学"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.cafamuseum.org/en/exhibit/newsdetail/4096",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "roots-calligraphy",
+    "kind": "guide",
+    "exhibition": "roots",
+    "focus": true,
+    "focusOrder": 1,
+    "order": 1,
+    "titleZh": "书法笔意",
+    "titleEn": "抽象从线条开始",
+    "artistZh": "抽象从线条开始",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "线",
+    "tags": [
+      "书法",
+      "线条",
+      "身体"
+    ],
+    "summary": "中国抽象的重要入口不是“几何形”，而是笔线留下的身体动作。",
+    "viewTips": [
+      "看线是慢、快、顿、挫还是飞白。",
+      "想象艺术家的手臂如何移动。",
+      "判断这条线是写出来、画出来，还是制造出来的。"
+    ],
+    "keywords": [
+      "书法笔意",
+      "线条",
+      "身体性"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "roots-ink",
+    "kind": "guide",
+    "exhibition": "roots",
+    "focus": true,
+    "focusOrder": 2,
+    "order": 2,
+    "titleZh": "水墨气韵",
+    "titleEn": "墨不是颜色，是时间",
+    "artistZh": "墨不是颜色，是时间",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "墨",
+    "tags": [
+      "水墨",
+      "气韵",
+      "生成"
+    ],
+    "summary": "水墨的抽象性常常来自晕染、渗化、层积和不可完全控制的生成过程。",
+    "viewTips": [
+      "看墨色边缘是否渗化。",
+      "看留白如何参与画面。",
+      "看随机性是否成为作品语言。"
+    ],
+    "keywords": [
+      "水墨",
+      "气韵",
+      "渗化"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "roots-symbol",
+    "kind": "guide",
+    "exhibition": "roots",
+    "focus": true,
+    "focusOrder": 3,
+    "order": 3,
+    "titleZh": "传统符号隐喻",
+    "titleEn": "看见但不必读懂",
+    "artistZh": "看见但不必读懂",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "符",
+    "tags": [
+      "符号",
+      "传统",
+      "隐喻"
+    ],
+    "summary": "当代抽象里可能出现古文字、器物、山水、卦象等传统符号，但重点常常不是说明，而是转译。",
+    "viewTips": [
+      "先辨认符号从哪里来。",
+      "再看它是否被打散、重组、遮蔽。",
+      "最后问它保留的是意义，还是形式能量。"
+    ],
+    "keywords": [
+      "传统符号",
+      "隐喻",
+      "转译"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "roots-dao-chan",
+    "kind": "guide",
+    "exhibition": "roots",
+    "focus": true,
+    "focusOrder": 4,
+    "order": 4,
+    "titleZh": "道与禅",
+    "titleEn": "空、动、静",
+    "artistZh": "空、动、静",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "空",
+    "tags": [
+      "道禅",
+      "留白",
+      "空间"
+    ],
+    "summary": "“空”不是没画；它可能是让观看和呼吸进入作品的地方。",
+    "viewTips": [
+      "看画面哪里最空。",
+      "看空白和密集处如何互相制造张力。",
+      "站远一点，感受节奏而不是找图像。"
+    ],
+    "keywords": [
+      "道",
+      "禅",
+      "空",
+      "动"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "roots-material",
+    "kind": "guide",
+    "exhibition": "roots",
+    "focus": true,
+    "focusOrder": 5,
+    "order": 5,
+    "titleZh": "材料实验",
+    "titleEn": "水墨之外的东方性",
+    "artistZh": "水墨之外的东方性",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "材",
+    "tags": [
+      "材料",
+      "当代",
+      "实验"
+    ],
+    "summary": "东方根脉不只在纸和墨里，也可能通过材料、装置、肌理和空间被转化。",
+    "viewTips": [
+      "看材料是否有历史感或手工痕迹。",
+      "看它是强调自然、时间还是身体。",
+      "不要只用“像不像传统水墨”判断。"
+    ],
+    "keywords": [
+      "材料实验",
+      "肌理",
+      "当代艺术"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "roots-geometry-vs-ink",
+    "kind": "guide",
+    "exhibition": "roots",
+    "focus": true,
+    "focusOrder": 6,
+    "order": 6,
+    "titleZh": "几何/色面 vs 水墨生成",
+    "titleEn": "两种抽象系统",
+    "artistZh": "两种抽象系统",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "几",
+    "tags": [
+      "抽象",
+      "比较",
+      "结构"
+    ],
+    "summary": "这张卡帮你区分：有些作品更像西方现代主义几何/色面，有些更像中国书写/水墨生成。",
+    "viewTips": [
+      "看它是靠硬边形体，还是靠流动笔触。",
+      "看颜色是平铺，还是带有墨性层次。",
+      "两种来源都可能被中国艺术家重新混合。"
+    ],
+    "keywords": [
+      "几何抽象",
+      "色面",
+      "水墨生成"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "roots-body",
+    "kind": "guide",
+    "exhibition": "roots",
+    "focus": false,
+    "focusOrder": null,
+    "order": 7,
+    "titleZh": "身体动作",
+    "titleEn": "看画面的速度",
+    "artistZh": "看画面的速度",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "身",
+    "tags": [
+      "动作",
+      "过程",
+      "痕迹"
+    ],
+    "summary": "抽象画常常把“画的过程”留在表面。",
+    "viewTips": [
+      "找重复、擦除、叠加、断裂。",
+      "想画面是一次完成还是多次覆盖。"
+    ],
+    "keywords": [
+      "身体性",
+      "过程",
+      "痕迹"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "roots-contemporary",
+    "kind": "guide",
+    "exhibition": "roots",
+    "focus": false,
+    "focusOrder": null,
+    "order": 8,
+    "titleZh": "个体经验",
+    "titleEn": "抽象也可以很现实",
+    "artistZh": "抽象也可以很现实",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "人",
+    "tags": [
+      "当代",
+      "个体",
+      "经验"
+    ],
+    "summary": "抽象不是逃离现实。它也可以回应城市、精神压力、历史记忆和个体状态。",
+    "viewTips": [
+      "读展签里关于艺术家经验的说明。",
+      "看画面是否让你感到压迫、宁静、破碎或漂浮。"
+    ],
+    "keywords": [
+      "个体经验",
+      "社会变迁",
+      "精神性"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-book-from-sky",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": true,
+    "focusOrder": 1,
+    "order": 1,
+    "titleZh": "《天书》",
+    "titleEn": "看起来像汉字，却读不出",
+    "artistZh": "看起来像汉字，却读不出",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "天",
+    "tags": [
+      "伪文字",
+      "阅读失败",
+      "经典"
+    ],
+    "summary": "《天书》让你面对一种熟悉又无法阅读的系统：它像知识，却拒绝给你意义。",
+    "viewTips": [
+      "先看自己是不是下意识想读。",
+      "再看字形为何“像汉字”。",
+      "最后想：文字的权威感来自哪里。"
+    ],
+    "keywords": [
+      "天书",
+      "伪文字",
+      "阅读"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-book-from-ground",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": true,
+    "focusOrder": 2,
+    "order": 2,
+    "titleZh": "《地书》",
+    "titleEn": "没有文字，却可能人人能读",
+    "artistZh": "没有文字，却可能人人能读",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "地",
+    "tags": [
+      "图标",
+      "全球化",
+      "日常"
+    ],
+    "summary": "《地书》反过来用图标、表情和公共符号讲述经验，挑战“语言必须有文字”的假设。",
+    "viewTips": [
+      "看哪些图标你能立刻理解。",
+      "看哪些符号受文化差异影响。",
+      "思考它是更自由，还是另一套新规训。"
+    ],
+    "keywords": [
+      "地书",
+      "图标",
+      "通用语言"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-square-word",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": true,
+    "focusOrder": 3,
+    "order": 3,
+    "titleZh": "《英文方块字书法》",
+    "titleEn": "英文伪装成汉字",
+    "artistZh": "英文伪装成汉字",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "英",
+    "tags": [
+      "英文方块字",
+      "跨文化",
+      "书法"
+    ],
+    "summary": "它看起来像汉字书法，实际上可按英文阅读，是跨文化认知错位的经典作品。",
+    "viewTips": [
+      "先不看说明，试着辨认。",
+      "再按照英文结构重新读。",
+      "注意“像汉字”怎样改变你对英文的感受。"
+    ],
+    "keywords": [
+      "英文方块字",
+      "书法",
+      "跨文化"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-character",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": true,
+    "focusOrder": 4,
+    "order": 4,
+    "titleZh": "《汉字的性格》",
+    "titleEn": "文字如何塑造思维",
+    "artistZh": "文字如何塑造思维",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "性",
+    "tags": [
+      "汉字",
+      "象形",
+      "认知"
+    ],
+    "summary": "这部分适合看汉字的构形、象形性和多义性如何成为艺术材料。",
+    "viewTips": [
+      "看图像和字形之间是否互相转换。",
+      "看你是在看画、读字，还是同时做两件事。"
+    ],
+    "keywords": [
+      "汉字",
+      "象形",
+      "造字"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-background",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": true,
+    "focusOrder": 5,
+    "order": 5,
+    "titleZh": "《背后的故事》",
+    "titleEn": "山水的背面与幻象",
+    "artistZh": "山水的背面与幻象",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "背",
+    "tags": [
+      "材料",
+      "幻象",
+      "山水"
+    ],
+    "summary": "它提醒你：图像的“前台”可能是幻觉，背后是材料、灯光和结构。",
+    "viewTips": [
+      "先从正面看像不像山水。",
+      "再去看背后的材料。",
+      "比较“图像”与“制作过程”的落差。"
+    ],
+    "keywords": [
+      "背后的故事",
+      "材料",
+      "山水幻象"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-forest",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": true,
+    "focusOrder": 6,
+    "order": 6,
+    "titleZh": "《木林森》",
+    "titleEn": "字形长成森林",
+    "artistZh": "字形长成森林",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "木",
+    "tags": [
+      "文字",
+      "生态",
+      "游戏"
+    ],
+    "summary": "《木林森》把汉字构造变成生态想象，适合看文字和自然之间的关系。",
+    "viewTips": [
+      "看“木、林、森”的结构如何递增。",
+      "看它如何从文字走向空间/图像。"
+    ],
+    "keywords": [
+      "木林森",
+      "汉字结构",
+      "生态"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-poetry",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": true,
+    "focusOrder": 7,
+    "order": 7,
+    "titleZh": "《小企业拼贴诗集》",
+    "titleEn": "日常材料作诗",
+    "artistZh": "日常材料作诗",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "诗",
+    "tags": [
+      "拼贴",
+      "日常",
+      "参与"
+    ],
+    "summary": "日常物料被重新组合成诗，重点是让普通物品脱离原用途。",
+    "viewTips": [
+      "看材料原本属于什么场景。",
+      "看它们如何被重新命名或组合。",
+      "如果有互动，观察别人怎么参与。"
+    ],
+    "keywords": [
+      "拼贴",
+      "诗",
+      "日常物料"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-phoenix",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": true,
+    "focusOrder": 8,
+    "order": 8,
+    "titleZh": "《凤凰》",
+    "titleEn": "废料变成神话形象",
+    "artistZh": "废料变成神话形象",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "凰",
+    "tags": [
+      "大型装置",
+      "废料",
+      "戏剧性"
+    ],
+    "summary": "《凤凰》用建筑废料重构宏大形象，既壮观也带有城市化和劳动的痕迹。",
+    "viewTips": [
+      "先远看整体体量。",
+      "再近看材料来自哪里。",
+      "最后想：为什么废料能变成凤凰。"
+    ],
+    "keywords": [
+      "凤凰",
+      "装置",
+      "废料"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "xubing-theater",
+    "kind": "guide",
+    "exhibition": "xubing",
+    "focus": false,
+    "focusOrder": null,
+    "order": 9,
+    "titleZh": "符号即剧场",
+    "titleEn": "展览观看方法",
+    "artistZh": "展览观看方法",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "剧",
+    "tags": [
+      "符号",
+      "剧场",
+      "体验"
+    ],
+    "summary": "看徐冰要把自己也当成作品的一部分：你的阅读失败、误认和恍然大悟就是作品发生的地方。",
+    "viewTips": [
+      "记录一次“我以为我懂了但其实没懂”的时刻。",
+      "这比拍照更接近作品核心。"
+    ],
+    "keywords": [
+      "符号",
+      "认知",
+      "游戏"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://sz.bendibao.com/xiuxian/2026526/1002870.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-network",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": true,
+    "focusOrder": 1,
+    "order": 1,
+    "titleZh": "把展览当成一条链",
+    "titleEn": "公共空间中的当代艺术网络",
+    "artistZh": "公共空间中的当代艺术网络",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "链",
+    "tags": [
+      "全馆漫游",
+      "公共空间",
+      "网络"
+    ],
+    "summary": "《新链》不是一个封闭展厅，而是散布在2–6F的作品网络。",
+    "viewTips": [
+      "不要急着“看完”。",
+      "从电梯/楼梯出来时留意公共空间。",
+      "遇到大型装置，先看它如何改变建筑中的视线。"
+    ],
+    "keywords": [
+      "新链",
+      "公共空间",
+      "当代艺术网络"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-core",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": true,
+    "focusOrder": 2,
+    "order": 2,
+    "titleZh": "核心之链",
+    "titleEn": "从个体到系统",
+    "artistZh": "从个体到系统",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "核",
+    "tags": [
+      "策展线索",
+      "系统",
+      "核心"
+    ],
+    "summary": "核心之链可以理解为从个体感知出发，连接到更大的技术和社会结构。",
+    "viewTips": [
+      "看作品是否围绕人、身体、意识或数据自我。",
+      "问：谁是这条链的“核心”？"
+    ],
+    "keywords": [
+      "核心之链",
+      "系统",
+      "主体"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-symbiosis",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": true,
+    "focusOrder": 3,
+    "order": 3,
+    "titleZh": "共栖之链",
+    "titleEn": "生态与他者",
+    "artistZh": "生态与他者",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "栖",
+    "tags": [
+      "生态",
+      "共生",
+      "环境"
+    ],
+    "summary": "共栖线索适合看人、技术、动植物、城市系统之间的相互依赖。",
+    "viewTips": [
+      "看材料是否指向生态问题。",
+      "看作品是否让人类不再是唯一主角。"
+    ],
+    "keywords": [
+      "共栖",
+      "生态",
+      "他者"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-craft",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": true,
+    "focusOrder": 4,
+    "order": 4,
+    "titleZh": "技艺之链",
+    "titleEn": "材料与技术如何变成艺术",
+    "artistZh": "材料与技术如何变成艺术",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "技",
+    "tags": [
+      "材料",
+      "工艺",
+      "技术"
+    ],
+    "summary": "这里的技术不是工具说明书，而是作品语言的一部分。",
+    "viewTips": [
+      "先看材料和制作方式。",
+      "再看技术是否改变了传统艺术的感受方式。"
+    ],
+    "keywords": [
+      "技艺",
+      "材料",
+      "媒介"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-cosmos",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": true,
+    "focusOrder": 5,
+    "order": 5,
+    "titleZh": "寰宇之链",
+    "titleEn": "从城市到宇宙尺度",
+    "artistZh": "从城市到宇宙尺度",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "宇",
+    "tags": [
+      "宇宙",
+      "全球",
+      "想象"
+    ],
+    "summary": "寰宇线索适合看更大尺度：全球网络、宇宙、时间、地球和人类处境。",
+    "viewTips": [
+      "看作品尺度是亲密、城市、地球还是宇宙。",
+      "问它让你变大，还是变小。"
+    ],
+    "keywords": [
+      "寰宇",
+      "全球化",
+      "宇宙尺度"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-eliasson",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": true,
+    "focusOrder": 6,
+    "order": 6,
+    "titleZh": "奥拉维尔·埃利亚松",
+    "titleEn": "光、感知与身体",
+    "artistZh": "光、感知与身体",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "光",
+    "tags": [
+      "光影",
+      "感知",
+      "身体"
+    ],
+    "summary": "如果看到埃利亚松相关作品，先别读说明，先感受光线如何改变你的身体和空间判断。",
+    "viewTips": [
+      "站远看环境变化。",
+      "换位置，看作品是否随你的身体移动而变化。",
+      "问：光是照明，还是材料？"
+    ],
+    "keywords": [
+      "Olafur Eliasson",
+      "光",
+      "感知"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-anadol",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": true,
+    "focusOrder": 7,
+    "order": 7,
+    "titleZh": "雷菲克·阿纳多尔",
+    "titleEn": "数据、AI与流动图像",
+    "artistZh": "数据、AI与流动图像",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "数",
+    "tags": [
+      "数据",
+      "AI",
+      "生成图像"
+    ],
+    "summary": "阿纳多尔的作品适合看数据如何从信息变成感官景观。",
+    "viewTips": [
+      "不要急着拍屏幕，先看图像变化的节奏。",
+      "问：这些图像像自然，还是像机器梦境？"
+    ],
+    "keywords": [
+      "Refik Anadol",
+      "数据",
+      "AI"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-zhanwang",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": true,
+    "focusOrder": 8,
+    "order": 8,
+    "titleZh": "展望",
+    "titleEn": "材料、城市与镜面",
+    "artistZh": "材料、城市与镜面",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "展",
+    "tags": [
+      "材料",
+      "城市",
+      "不锈钢"
+    ],
+    "summary": "展望线索适合看材料表面如何反射城市和观众自身。",
+    "viewTips": [
+      "绕着看，不要只站正面。",
+      "看反射如何把你和空间卷入作品。"
+    ],
+    "keywords": [
+      "展望",
+      "材料",
+      "城市"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-zhangxiaogang",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": false,
+    "focusOrder": null,
+    "order": 9,
+    "titleZh": "张晓刚",
+    "titleEn": "记忆与图像",
+    "artistZh": "记忆与图像",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "张",
+    "tags": [
+      "记忆",
+      "肖像",
+      "当代"
+    ],
+    "summary": "如果遇到张晓刚相关作品，重点看个人、家庭与历史记忆之间的关系。",
+    "viewTips": [
+      "看脸、照片感、重复性。",
+      "问：这是私人记忆还是集体记忆？"
+    ],
+    "keywords": [
+      "张晓刚",
+      "记忆",
+      "肖像"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "newchain-public",
+    "kind": "guide",
+    "exhibition": "newchain",
+    "focus": false,
+    "focusOrder": null,
+    "order": 10,
+    "titleZh": "边走边看",
+    "titleEn": "最适合最后收尾",
+    "artistZh": "最适合最后收尾",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "走",
+    "tags": [
+      "路线",
+      "漫游",
+      "公共空间"
+    ],
+    "summary": "这张卡提醒你：《新链》最适合作为最后的全馆漫游，而不是集中猛读。",
+    "viewTips": [
+      "从6F往下走。",
+      "每层只挑最吸引眼睛的一两件。",
+      "把建筑也当成展览的一部分。"
+    ],
+    "keywords": [
+      "漫游",
+      "公共空间",
+      "路线"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-system",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": true,
+    "focusOrder": 1,
+    "order": 1,
+    "titleZh": "进入变化系统",
+    "titleEn": "不是物件，是过程",
+    "artistZh": "不是物件，是过程",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "∞",
+    "tags": [
+      "生成",
+      "系统",
+      "过程"
+    ],
+    "summary": "这个展的关键词是“持续生成与演化”：作品不一定是稳定对象。",
+    "viewTips": [
+      "先站定20秒。",
+      "观察它是否随时间、声音、数据或观众变化。",
+      "再移动位置，看系统是否回应你。"
+    ],
+    "keywords": [
+      "生成系统",
+      "过程",
+      "互动"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-sound",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": true,
+    "focusOrder": 2,
+    "order": 2,
+    "titleZh": "声",
+    "titleEn": "用耳朵看展",
+    "artistZh": "用耳朵看展",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "声",
+    "tags": [
+      "声音",
+      "空间",
+      "感知"
+    ],
+    "summary": "声音作品不一定有明确图像，你需要把身体当成接收器。",
+    "viewTips": [
+      "找声音从哪里来。",
+      "换位置听强弱和方向。",
+      "闭眼10秒感受空间。"
+    ],
+    "keywords": [
+      "声音艺术",
+      "空间",
+      "感知"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-light",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": true,
+    "focusOrder": 3,
+    "order": 3,
+    "titleZh": "光",
+    "titleEn": "视觉不是被动的",
+    "artistZh": "视觉不是被动的",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "光",
+    "tags": [
+      "光",
+      "沉浸",
+      "视觉"
+    ],
+    "summary": "光影作品常常让你意识到视觉是被制造出来的。",
+    "viewTips": [
+      "先看亮暗变化。",
+      "再看光是否改变墙、地面或身体。",
+      "注意手机镜头和肉眼感受可能不同。"
+    ],
+    "keywords": [
+      "光艺术",
+      "沉浸",
+      "视觉"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-algorithm",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": true,
+    "focusOrder": 4,
+    "order": 4,
+    "titleZh": "算法",
+    "titleEn": "看不见的作者",
+    "artistZh": "看不见的作者",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "算",
+    "tags": [
+      "算法",
+      "规则",
+      "生成"
+    ],
+    "summary": "算法作品的重点是规则如何生成视觉、声音或行为。",
+    "viewTips": [
+      "问：它是不是每次都一样？",
+      "看是否能猜到背后的规则。",
+      "别只看效果，要看变化逻辑。"
+    ],
+    "keywords": [
+      "算法",
+      "规则",
+      "生成艺术"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-code",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": true,
+    "focusOrder": 5,
+    "order": 5,
+    "titleZh": "代码",
+    "titleEn": "媒介也是语言",
+    "artistZh": "媒介也是语言",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "码",
+    "tags": [
+      "代码",
+      "媒介",
+      "技术"
+    ],
+    "summary": "代码在这里不是幕后工具，而是作品的语言结构。",
+    "viewTips": [
+      "看说明里是否提到数据、模型、程序。",
+      "问技术是否只是炫技，还是改变了观看方式。"
+    ],
+    "keywords": [
+      "代码",
+      "媒介",
+      "技术艺术"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-body",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": true,
+    "focusOrder": 6,
+    "order": 6,
+    "titleZh": "身体参与",
+    "titleEn": "你也是作品变量",
+    "artistZh": "你也是作品变量",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "身",
+    "tags": [
+      "互动",
+      "身体",
+      "参与"
+    ],
+    "summary": "有些作品只有当观众进入、移动或停留时才真正发生。",
+    "viewTips": [
+      "不要害怕慢下来。",
+      "观察别人参与时作品如何变化。",
+      "再自己试一次。"
+    ],
+    "keywords": [
+      "互动",
+      "身体",
+      "参与"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-liminal",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": true,
+    "focusOrder": 7,
+    "order": 7,
+    "titleZh": "临界场域",
+    "titleEn": "现实与感知之间",
+    "artistZh": "现实与感知之间",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "重点导览卡",
+    "icon": "界",
+    "tags": [
+      "临界",
+      "现实",
+      "感知"
+    ],
+    "summary": "“临界”意味着作品把真实空间和感知经验推到不稳定边界。",
+    "viewTips": [
+      "问：我看到的是实体、投影、反射还是数据？",
+      "体验不确定感本身。"
+    ],
+    "keywords": [
+      "临界场域",
+      "感知",
+      "现实"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-science",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": false,
+    "focusOrder": null,
+    "order": 8,
+    "titleZh": "艺术家 × 科学家",
+    "titleEn": "联合创作",
+    "artistZh": "联合创作",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "科",
+    "tags": [
+      "科学",
+      "跨界",
+      "联合"
+    ],
+    "summary": "这个展由美术馆与科技馆联合主办，适合看艺术和科学如何共享问题，而不是谁服务谁。",
+    "viewTips": [
+      "看作品的问题意识是否来自科学。",
+      "看它最终是否转化成感性经验。"
+    ],
+    "keywords": [
+      "艺术与科技",
+      "科学家",
+      "跨界"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  },
+  {
+    "id": "biennale-route",
+    "kind": "guide",
+    "exhibition": "biennale",
+    "focus": false,
+    "focusOrder": null,
+    "order": 9,
+    "titleZh": "从高层往下看",
+    "titleEn": "省力路径",
+    "artistZh": "省力路径",
+    "artistEn": "",
+    "date": "",
+    "medium": "",
+    "section": "补充导览卡",
+    "icon": "路",
+    "tags": [
+      "路线",
+      "高层",
+      "漫游"
+    ],
+    "summary": "这个展分布在3F–6F，和《新链》交错，最省力是从高层往下走。",
+    "viewTips": [
+      "先坐电梯到高层。",
+      "每层挑一个最强体验。",
+      "最后回到2F/1F补看主展。"
+    ],
+    "keywords": [
+      "路线",
+      "3F-6F",
+      "沉浸"
+    ],
+    "compare": "",
+    "sourceLabel": "资料来源：深圳国际美术馆公开信息 / 观展整理",
+    "sourceUrl": "https://www.sznews.com/news/content/mb/2026-06/03/content_32075500.htm",
+    "imageStatus": "导览卡 / 非作品图"
+  }
+]

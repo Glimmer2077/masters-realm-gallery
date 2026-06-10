@@ -35,7 +35,9 @@
     ],
     "compare": "克拉纳赫《持施洗者圣约翰首级的莎乐美》：一个靠色彩和肉身，一个靠线条和冷峻细节。",
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/titian-madonna-child-st-paul.jpg"
+    "localImage": "assets/artworks/titian-madonna-child-st-paul.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "cranach-salome",
@@ -73,7 +75,9 @@
     ],
     "compare": "真蒂莱斯基《莎乐美》：同题材从冷峻叙事变成巴洛克戏剧。",
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/cranach-salome.jpg"
+    "localImage": "assets/artworks/cranach-salome.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "artemisia-salome",
@@ -111,7 +115,9 @@
     ],
     "compare": "克拉纳赫《莎乐美》：北方冷静与巴洛克戏剧性的同题对照。",
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/artemisia-salome.jpg"
+    "localImage": "assets/artworks/artemisia-salome.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "el-greco-apostle",
@@ -149,7 +155,9 @@
     ],
     "compare": "提香《圣母子与圣保罗》：一个是威尼斯色彩与肉身，一个是西班牙宗教精神性。",
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/el-greco-apostle.jpg"
+    "localImage": "assets/artworks/el-greco-apostle.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "goya-caballero",
@@ -187,7 +195,9 @@
     ],
     "compare": "雷诺阿《年轻女子肖像》：同为肖像，一个偏权力心理，一个偏肉色与光。",
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/goya-caballero.jpg"
+    "localImage": "assets/artworks/goya-caballero.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "jan-steen-peasant-wedding",
@@ -226,7 +236,9 @@
     "compare": "戈雅肖像：一个画权力中心，一个画日常社会，但都不只是记录现实。",
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://api.microlink.io/?url=https%3A%2F%2Fwww.mfab.hu%2Fartworks%2F10239%2F&embed=image.url",
-    "localImage": "assets/artworks/jan-steen-peasant-wedding.webp"
+    "localImage": "assets/artworks/jan-steen-peasant-wedding.webp",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "juan-zurbaran-still-life",
@@ -265,7 +277,9 @@
     "compare": "莫奈《退潮时的特鲁维尔防波堤》：一个让世界凝固，一个让世界化成光和空气。",
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2024/04/372452.jpg",
-    "localImage": "assets/artworks/juan-zurbaran-still-life.jpg"
+    "localImage": "assets/artworks/juan-zurbaran-still-life.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "monet-trouville",
@@ -303,7 +317,9 @@
     ],
     "compare": "西涅伊·梅尔谢《田野中的红罂粟》：法国印象派与匈牙利户外光色。",
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/monet-trouville.jpg"
+    "localImage": "assets/artworks/monet-trouville.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "renoir-young-woman",
@@ -342,7 +358,9 @@
     "compare": "戈雅《卡瓦列罗侯爵肖像》：同为肖像，一个冷，一个暖；一个权力，一个肉色。",
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://api.microlink.io/?url=https%3A%2F%2Fen.mng.hu%2Fartworks%2Fportrait-of-a-young-woman-2%2F&embed=image.url",
-    "localImage": "assets/artworks/renoir-young-woman.jpg"
+    "localImage": "assets/artworks/renoir-young-woman.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "szinyei-poppies",
@@ -380,7 +398,9 @@
     ],
     "compare": "莫奈《退潮时的特鲁维尔防波堤》：同样关心户外光，但文化位置不同。",
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/szinyei-poppies.jpg"
+    "localImage": "assets/artworks/szinyei-poppies.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "munkacsy-two-boys",
@@ -418,7 +438,9 @@
     ],
     "compare": "雷诺阿《年轻女子肖像》：一个是现代人物的温柔光色，一个是现实主义叙事张力。",
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/munkacsy-two-boys.jpg"
+    "localImage": "assets/artworks/munkacsy-two-boys.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "vaszary-birthday-cake",
@@ -457,7 +479,9 @@
     "compare": "提香《圣母子与圣保罗》：从古典神圣图像跳到20世纪现代视觉。",
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://archivum.vaszarygaleria.hu/images/galeria/vaszary3x/vaszary3x_unnepi_torta.jpg",
-    "localImage": "assets/artworks/vaszary-birthday-cake.jpg"
+    "localImage": "assets/artworks/vaszary-birthday-cake.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "hans-von-aachen-bacchus-silenus",
@@ -491,7 +515,9 @@
     "compare": "可和同单元作品对照看题材、光线、笔触和归属词。",
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/hans-von-aachen-bacchus-silenus.jpg"
+    "localImage": "assets/artworks/hans-von-aachen-bacchus-silenus.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "anonymous-madonna-child-st-louis",
@@ -526,7 +552,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "museumPage": "https://www.mfab.hu/artworks/12114/",
-    "localImage": "assets/artworks/anonymous-madonna-child-st-louis.jpg"
+    "localImage": "assets/artworks/anonymous-madonna-child-st-louis.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "anonymous-madonna-child-dorothy",
@@ -561,7 +589,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2023/03/336022.jpg",
-    "localImage": "assets/artworks/anonymous-madonna-child-dorothy.jpg"
+    "localImage": "assets/artworks/anonymous-madonna-child-dorothy.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "bonifacio-workshop-summer",
@@ -596,7 +626,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2024/06/381428.jpg",
-    "localImage": "assets/artworks/bonifacio-workshop-summer.jpg"
+    "localImage": "assets/artworks/bonifacio-workshop-summer.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "bonifacio-workshop-autumn",
@@ -631,7 +663,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://api.microlink.io/?url=https%3A%2F%2Fwww.mfab.hu%2Fartworks%2Fautumn%2F&embed=image.url",
-    "localImage": "assets/artworks/bonifacio-workshop-autumn.webp"
+    "localImage": "assets/artworks/bonifacio-workshop-autumn.webp",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "tintoretto-workshop-doge-loredano",
@@ -665,7 +699,9 @@
     "compare": "可和同单元作品对照看题材、光线、笔触和归属词。",
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/tintoretto-workshop-doge-loredano.jpg"
+    "localImage": "assets/artworks/tintoretto-workshop-doge-loredano.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "tiepolo-god-father",
@@ -699,7 +735,9 @@
     "compare": "可和同单元作品对照看题材、光线、笔触和归属词。",
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/tiepolo-god-father.jpg"
+    "localImage": "assets/artworks/tiepolo-god-father.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "fetti-young-friar",
@@ -734,7 +772,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2025/10/454348.jpg",
-    "localImage": "assets/artworks/fetti-young-friar.jpg"
+    "localImage": "assets/artworks/fetti-young-friar.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "anonymous-ferdinand",
@@ -769,7 +809,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2025/11/457481.jpg",
-    "localImage": "assets/artworks/anonymous-ferdinand.jpg"
+    "localImage": "assets/artworks/anonymous-ferdinand.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "cornelis-janssens-anna-maria",
@@ -804,7 +846,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2021/01/217998.jpg",
-    "localImage": "assets/artworks/cornelis-janssens-anna-maria.jpg"
+    "localImage": "assets/artworks/cornelis-janssens-anna-maria.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "bartolome-gonzalez-prince",
@@ -839,7 +883,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2025/10/451877.jpg",
-    "localImage": "assets/artworks/bartolome-gonzalez-prince.jpg"
+    "localImage": "assets/artworks/bartolome-gonzalez-prince.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "mazo-nobleman",
@@ -874,7 +920,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2019/06/216181.jpg",
-    "localImage": "assets/artworks/mazo-nobleman.jpg"
+    "localImage": "assets/artworks/mazo-nobleman.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "isaac-van-duynen-fish",
@@ -909,7 +957,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "museumPage": "https://www.mfab.hu/artworks/still-life-with-fish/",
-    "localImage": "assets/artworks/isaac-van-duynen-fish.jpg"
+    "localImage": "assets/artworks/isaac-van-duynen-fish.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "ruoppolo-fruit",
@@ -944,7 +994,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2024/03/225749.jpg",
-    "localImage": "assets/artworks/ruoppolo-fruit.jpg"
+    "localImage": "assets/artworks/ruoppolo-fruit.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "molenaer-peter-denial",
@@ -979,7 +1031,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "museumPage": "https://www.mfab.hu/artworks/the-denial-of-saint-peter/",
-    "localImage": "assets/artworks/molenaer-peter-denial.jpg"
+    "localImage": "assets/artworks/molenaer-peter-denial.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "salci-dead-fox",
@@ -1014,7 +1068,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://api.microlink.io/?url=https%3A%2F%2Fwww.mfab.hu%2Fartworks%2Fstill-life-with-a-fox%2F&embed=image.url",
-    "localImage": "assets/artworks/salci-dead-fox.webp"
+    "localImage": "assets/artworks/salci-dead-fox.webp",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "quadal-young-hunter",
@@ -1049,7 +1105,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://api.microlink.io/?url=https%3A%2F%2Fwww.mfab.hu%2Fartworks%2Fresting-young-hunter%2F&embed=image.url",
-    "localImage": "assets/artworks/quadal-young-hunter.webp"
+    "localImage": "assets/artworks/quadal-young-hunter.webp",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "roos-children-animals",
@@ -1084,7 +1142,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2026/04/479123.jpg",
-    "localImage": "assets/artworks/roos-children-animals.jpg"
+    "localImage": "assets/artworks/roos-children-animals.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "vernet-ruins",
@@ -1119,7 +1179,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "museumPage": "https://www.mfab.hu/artworks/10609/",
-    "localImage": "assets/artworks/vernet-ruins.jpg"
+    "localImage": "assets/artworks/vernet-ruins.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "marieschi-venice",
@@ -1154,7 +1216,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2025/12/459586.jpg",
-    "localImage": "assets/artworks/marieschi-venice.jpg"
+    "localImage": "assets/artworks/marieschi-venice.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "beerstraten-winter-nieuwkoop",
@@ -1189,7 +1253,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2018/11/166621.jpg",
-    "localImage": "assets/artworks/beerstraten-winter-nieuwkoop.jpg"
+    "localImage": "assets/artworks/beerstraten-winter-nieuwkoop.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "fidanza-winter-river",
@@ -1224,7 +1290,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2025/09/450180.jpg",
-    "localImage": "assets/artworks/fidanza-winter-river.jpg"
+    "localImage": "assets/artworks/fidanza-winter-river.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "nome-imaginary-church",
@@ -1258,7 +1326,9 @@
     "compare": "可和同单元作品对照看题材、光线、笔触和归属词。",
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
-    "localImage": "assets/artworks/nome-imaginary-church.jpg"
+    "localImage": "assets/artworks/nome-imaginary-church.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "corot-coubron",
@@ -1293,7 +1363,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/05/233415.jpg",
-    "localImage": "assets/artworks/corot-coubron.jpg"
+    "localImage": "assets/artworks/corot-coubron.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "courbet-rocky-landscape",
@@ -1328,7 +1400,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/05/233417.jpg",
-    "localImage": "assets/artworks/courbet-rocky-landscape.jpg"
+    "localImage": "assets/artworks/courbet-rocky-landscape.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "alfred-stevens-harp",
@@ -1363,7 +1437,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/07/236030.jpg",
-    "localImage": "assets/artworks/alfred-stevens-harp.jpg"
+    "localImage": "assets/artworks/alfred-stevens-harp.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "boutibonne-majthenyi",
@@ -1398,7 +1474,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/05/233396.jpg",
-    "localImage": "assets/artworks/boutibonne-majthenyi.jpg"
+    "localImage": "assets/artworks/boutibonne-majthenyi.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "israels-orphan",
@@ -1433,7 +1511,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/06/234484.jpg",
-    "localImage": "assets/artworks/israels-orphan.jpg"
+    "localImage": "assets/artworks/israels-orphan.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "bisschop-sulking",
@@ -1468,7 +1548,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/07/236472.jpg",
-    "localImage": "assets/artworks/bisschop-sulking.jpg"
+    "localImage": "assets/artworks/bisschop-sulking.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "reiter-jeweller",
@@ -1503,7 +1585,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/07/236070.jpg",
-    "localImage": "assets/artworks/reiter-jeweller.jpg"
+    "localImage": "assets/artworks/reiter-jeweller.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "hans-canon-man",
@@ -1538,7 +1622,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/05/233421.jpg",
-    "localImage": "assets/artworks/hans-canon-man.jpg"
+    "localImage": "assets/artworks/hans-canon-man.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "johann-ender-young-woman",
@@ -1573,7 +1659,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2024/11/402719.jpg",
-    "localImage": "assets/artworks/johann-ender-young-woman.jpg"
+    "localImage": "assets/artworks/johann-ender-young-woman.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "lefebvre-water-nymph",
@@ -1608,7 +1696,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "museumPage": "https://www.mfab.hu/artworks/ondine/",
-    "localImage": "assets/artworks/lefebvre-water-nymph.jpg"
+    "localImage": "assets/artworks/lefebvre-water-nymph.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "maurice-denis-maternity",
@@ -1643,7 +1733,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/05/233428.jpg",
-    "localImage": "assets/artworks/maurice-denis-maternity.jpg"
+    "localImage": "assets/artworks/maurice-denis-maternity.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "schleich-field-cattle",
@@ -1678,7 +1770,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2024/11/402846.jpg",
-    "localImage": "assets/artworks/schleich-field-cattle.jpg"
+    "localImage": "assets/artworks/schleich-field-cattle.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "lier-mill",
@@ -1713,7 +1807,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://www.mfab.hu/app/uploads/2022/08/312885.jpg",
-    "localImage": "assets/artworks/lier-mill.jpg"
+    "localImage": "assets/artworks/lier-mill.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "daubigny-seine-oise",
@@ -1748,7 +1844,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/05/233424.jpg",
-    "localImage": "assets/artworks/daubigny-seine-oise.jpg"
+    "localImage": "assets/artworks/daubigny-seine-oise.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "luigi-nono-walking-woman",
@@ -1783,7 +1881,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/06/234818.jpg",
-    "localImage": "assets/artworks/luigi-nono-walking-woman.jpg"
+    "localImage": "assets/artworks/luigi-nono-walking-woman.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "leo-putz-idyll",
@@ -1818,7 +1918,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/07/236083.jpg",
-    "localImage": "assets/artworks/leo-putz-idyll.jpg"
+    "localImage": "assets/artworks/leo-putz-idyll.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "normann-norwegian-fjord",
@@ -1853,7 +1955,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2019/01/23337.jpg",
-    "localImage": "assets/artworks/normann-norwegian-fjord.jpg"
+    "localImage": "assets/artworks/normann-norwegian-fjord.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "menzler-spring-day",
@@ -1888,7 +1992,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/09/240416.jpg",
-    "localImage": "assets/artworks/menzler-spring-day.jpg"
+    "localImage": "assets/artworks/menzler-spring-day.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "slevogt-flowers",
@@ -1923,7 +2029,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2020/07/236031.jpg",
-    "localImage": "assets/artworks/slevogt-flowers.jpg"
+    "localImage": "assets/artworks/slevogt-flowers.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "borsos-carrier-pigeon",
@@ -1958,7 +2066,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/237411.jpg",
-    "localImage": "assets/artworks/borsos-carrier-pigeon.jpg"
+    "localImage": "assets/artworks/borsos-carrier-pigeon.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "barabas-woman",
@@ -1993,7 +2103,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/236431.jpg",
-    "localImage": "assets/artworks/barabas-woman.jpg"
+    "localImage": "assets/artworks/barabas-woman.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "szekely-leda-swan",
@@ -2028,7 +2140,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/63498.jpg",
-    "localImage": "assets/artworks/szekely-leda-swan.jpg"
+    "localImage": "assets/artworks/szekely-leda-swan.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "lotz-harvest-dance",
@@ -2063,7 +2177,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/265821.jpg",
-    "localImage": "assets/artworks/lotz-harvest-dance.jpg"
+    "localImage": "assets/artworks/lotz-harvest-dance.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "deak-ebner-bride-procession",
@@ -2098,7 +2214,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/316911.jpg",
-    "localImage": "assets/artworks/deak-ebner-bride-procession.jpg"
+    "localImage": "assets/artworks/deak-ebner-bride-procession.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "reti-figural-landscape",
@@ -2133,7 +2251,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/81405.jpg",
-    "localImage": "assets/artworks/reti-figural-landscape.jpg"
+    "localImage": "assets/artworks/reti-figural-landscape.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "hollosy-farmyard",
@@ -2168,7 +2288,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/80250.jpg",
-    "localImage": "assets/artworks/hollosy-farmyard.jpg"
+    "localImage": "assets/artworks/hollosy-farmyard.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "zemplenyi-holiday",
@@ -2203,7 +2325,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2022/02/265852.jpg",
-    "localImage": "assets/artworks/zemplenyi-holiday.jpg"
+    "localImage": "assets/artworks/zemplenyi-holiday.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "fenyes-village-street",
@@ -2238,7 +2362,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/80872.jpg",
-    "localImage": "assets/artworks/fenyes-village-street.jpg"
+    "localImage": "assets/artworks/fenyes-village-street.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "mednyanszky-alpine",
@@ -2273,7 +2399,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/64094.jpg",
-    "localImage": "assets/artworks/mednyanszky-alpine.jpg"
+    "localImage": "assets/artworks/mednyanszky-alpine.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "koszta-corn-husking",
@@ -2308,7 +2436,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/80197.jpg",
-    "localImage": "assets/artworks/koszta-corn-husking.jpg"
+    "localImage": "assets/artworks/koszta-corn-husking.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "ziffer-winter-village",
@@ -2343,7 +2473,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/288781.jpg",
-    "localImage": "assets/artworks/ziffer-winter-village.jpg"
+    "localImage": "assets/artworks/ziffer-winter-village.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "perlrott-terrace",
@@ -2378,7 +2510,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/80339.jpg",
-    "localImage": "assets/artworks/perlrott-terrace.jpg"
+    "localImage": "assets/artworks/perlrott-terrace.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "molnar-aliga-cliffs",
@@ -2413,7 +2547,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/05/428880.jpg",
-    "localImage": "assets/artworks/molnar-aliga-cliffs.jpg"
+    "localImage": "assets/artworks/molnar-aliga-cliffs.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "lotz-cornelia-white-dress",
@@ -2448,7 +2584,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/79836.jpg",
-    "localImage": "assets/artworks/lotz-cornelia-white-dress.jpg"
+    "localImage": "assets/artworks/lotz-cornelia-white-dress.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "benczur-franciska-apponyi",
@@ -2483,7 +2621,9 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2022/01/265382.jpg",
-    "localImage": "assets/artworks/benczur-franciska-apponyi.jpg"
+    "localImage": "assets/artworks/benczur-franciska-apponyi.jpg",
+    "kind": "artwork",
+    "icon": "画"
   },
   {
     "id": "benczur-woman-woods",
@@ -2518,6 +2658,8 @@
     "focusOrder": 999,
     "imageStatus": "本地作品图（已缓存）",
     "imageUrl": "https://en.mng.hu/app/uploads/2025/10/63798.jpg",
-    "localImage": "assets/artworks/benczur-woman-woods.jpg"
+    "localImage": "assets/artworks/benczur-woman-woods.jpg",
+    "kind": "artwork",
+    "icon": "画"
   }
 ]
